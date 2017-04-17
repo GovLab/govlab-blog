@@ -129,6 +129,14 @@ body {
   .docs .post h1 a:hover {
     text-decoration: none;
     color: #523080; }
+  .docs .post img.landscape {
+    display: block;
+    margin: 40px auto;
+    max-width: 80%; }
+  .docs .post img.portrait {
+    margin: 30px 40px 30px 0;
+    max-width: 200px;
+    float: left; }
 
 .post-image {
   height: 200px;
